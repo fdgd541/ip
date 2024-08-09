@@ -2,7 +2,7 @@ www.gov.se:8080#自选
 www.sean-now.com:8080#自选
 singapore.com:8080#自选
 www.visa.com:8080#自选
-www.visa.com.sg:8080#自选
+www.visa.co.jp:8080#自选
 www.zsu.gov.ua:8080#自选
 www.hugedomains.com:8080#自选
 www.visa.com.hk:8080#自选

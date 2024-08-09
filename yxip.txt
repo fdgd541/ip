@@ -1,6 +1,5 @@
 www.gov.se:8080#自选
 www.sean-now.com:8080#自选
-www.d-555.com:8080#自选
 singapore.com:8080#自选
 www.visa.com:8080#自选
 www.visa.com.sg:8080#自选
@@ -17,6 +16,14 @@ www.glassdoor.com:8080#自选
 www.udemy.com:8080#自选
 www.gov.ua:8080#自选
 www.visa.com.tw:8080#自选
-download.yunzhongzhuan.com:8080#自选
 www.ipaddress.my:8080#自选
 gur.gov.ua:8080#自选
+47.242.42.153:8443#反代
+47.243.139.85:8443#反代
+8.210.3.24:8443#反代
+8.210.244.38:8443#反代
+47.242.107.109:8443#反代
+47.243.91.58:8443#反代
+8.210.119.11:8443#反代
+129.154.202.4:8443#反代
+47.243.60.150:8443#反代
